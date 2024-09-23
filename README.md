@@ -76,8 +76,5 @@ The appendix contains visual outputs from the analysis:
 
 This README serves as a comprehensive guide to understanding the objectives, methodologies, results, and implications of this time series analysis project.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/22289424/f6136fd3-9e4e-4283-be4a-b052fe611abb/Project-Timeseries-_pdf.pdf
-
 Detailed report of the analysis is attached feel free to reach me for any queries.
 Thank You!
